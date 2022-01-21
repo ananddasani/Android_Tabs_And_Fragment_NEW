@@ -54,8 +54,4 @@ new TabLayoutMediator(tabLayout, viewPager2, ((tab, position) -> tab.setText(tit
 
 <img src="app_images/Tabs New Code.png" width="1000" /><br>
 
-<img src="app_images/Tabs New App1.png" width="300" /><br>
-
-<img src="app_images/Tabs New App2.png" width="300" /><br>
-
-<img src="app_images/Tabs New App3.png" width="300" /><br>
+<img src="app_images/Tabs New App1.png" width="300" /> <img src="app_images/Tabs New App2.png" width="300" /> <img src="app_images/Tabs New App3.png" width="300" />
