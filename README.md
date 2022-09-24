@@ -1,6 +1,8 @@
 # Android_Tabs_And_Fragment_NEW
 Controlling Tabs and Fragment Using New Class FragmentStateAdapter
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### FragmentAdapter.java
@@ -52,6 +54,8 @@ new TabLayoutMediator(tabLayout, viewPager2, ((tab, position) -> tab.setText(tit
 
 # App Highlight
 
-<img src="app_images/Tabs New Code.png" width="1000" /><br>
+![Tabs New App1](https://user-images.githubusercontent.com/74413402/192095623-d00c6bb2-9838-46f1-9d1e-14b0150c8f92.png)
+![Tabs New App2](https://user-images.githubusercontent.com/74413402/192095624-a14fd248-41ea-4cef-a760-2f7fb29e07c5.png)
+![Tabs New App3](https://user-images.githubusercontent.com/74413402/192095625-41158266-780a-47e1-ac93-829627feea56.png)
+![Tabs New Code](https://user-images.githubusercontent.com/74413402/192095630-9f253674-3640-4afc-9974-67d2dabb0338.png)
 
-<img src="app_images/Tabs New App1.png" width="300" /> <img src="app_images/Tabs New App2.png" width="300" /> <img src="app_images/Tabs New App3.png" width="300" />
